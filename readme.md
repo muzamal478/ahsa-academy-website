@@ -77,11 +77,12 @@ This project can be deployed easily on:
 
 Add your project screenshot below:
 
-```md
+```
 ![Website Preview](preview.png)
+
 ```
 
-Replace `preview.png` with your actual website screenshot image.
+
 
 ---
 

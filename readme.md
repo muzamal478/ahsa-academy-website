@@ -77,12 +77,7 @@ This project can be deployed easily on:
 
 Add your project screenshot below:
 
-```
 ![Website Preview](preview.png)
-
-```
-
-
 
 ---
 
